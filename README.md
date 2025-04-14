@@ -39,6 +39,8 @@ text의 위치 좌표 (x, y, z) = (5, 3, -1.5)
 
 axis의 위치는 원점 사용
 
+axis_length = 0.1
+
 - Red : X
 - Green : Y
 - Blue : Z
