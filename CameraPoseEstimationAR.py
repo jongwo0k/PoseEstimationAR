@@ -74,7 +74,7 @@ while True:
     cv.imshow('Pose Estimation (Chessboard)', img)
     
     # 키 설정
-    key = cv.waitKey(10)
+    key = cv.waitKey(30)
     if key == ord(' '):  # Space : 정지
         key = cv.waitKey()
     if key == 27:  # ESC : 종료
